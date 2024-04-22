@@ -1,5 +1,6 @@
 # Olá, me chamo Alexandre (Alexandre-Paiva)👍
     Sou estudante de Ti na área de banco de dados pela Universidade Estácio de Sá.
+        Realizando curso de desenvolvimento de softwares (Carreira Back-End). E quem sabe no futuro um DevOps.
     
 
 
